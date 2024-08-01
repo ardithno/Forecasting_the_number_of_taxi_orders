@@ -3,7 +3,7 @@
 ## ***Introduction***
 
 ### *Project Description:*
-The company "Chyotenkoe Taxi" collected historical data on taxi orders at airports. In order to attract more drivers during peak periods, it is necessary to predict the number of taxi orders for the next hour. Build a model for such a prediction.
+The company collected historical data on taxi orders at airports. In order to attract more drivers during peak periods, it is necessary to predict the number of taxi orders for the next hour. Build a model for such a prediction.
 The value of the RMSE metric on the test sample should not exceed 48.
 ### *Project Goal:*
 Build a model for predicting the number of taxi orders for the next hour.
